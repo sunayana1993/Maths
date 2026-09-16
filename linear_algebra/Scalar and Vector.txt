@@ -1,0 +1,7 @@
+Vectors and Scalars:
+
+-->Physics, Maths and Computer Science
+Scalar represent single numerical value, which represent quantity and magnitude which has no direction
+
+e.g speed is 45 km/hr ,temperature is 25 deg eelcius mode
+
