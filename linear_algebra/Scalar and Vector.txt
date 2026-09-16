@@ -5,3 +5,13 @@ Scalar represent single numerical value, which represent quantity and magnitude 
 
 e.g speed is 45 km/hr ,temperature is 25 deg eelcius mode
 
+Application in data science:
+Dataset: count total no of record
+
+f1 f2 f3
+
+average of frame of f1
+
+simple linear regression: mx+c
+-->c is an intercept which is scalar values
+
