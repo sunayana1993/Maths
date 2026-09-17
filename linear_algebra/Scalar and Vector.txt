@@ -15,3 +15,14 @@ average of frame of f1
 simple linear regression: mx+c
 -->c is an intercept which is scalar values
 
+vector: numerical values which has both magnitude and direction
+
+A vector is an ordered list of numbers.It can represent point in a space 
+or quantity with both magnitude and direction
+
+e.g speed of car is 45 km/hr moving in east
+
+IQ  No of study hour
+90  3 hrs                      A vector representing no of IQ/study hour
+
+A vectors representing person's weight over time->[70,75,80]
