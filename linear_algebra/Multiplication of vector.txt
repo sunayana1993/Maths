@@ -1,0 +1,16 @@
+Multiplication of vectors:
+
+-> Dot product-(Inner product)
+-> Element wise Multiplication
+-> Scalar Multiplication.
+
+Dot Product:
+Dot product of 2 vector is a scalar and is calculated as sum of products of their corresponding component
+
+A=[1
+   2]
+
+B=[3
+   4]
+
+   A.B=1*3+2*4

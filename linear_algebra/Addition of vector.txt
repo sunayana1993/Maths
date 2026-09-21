@@ -1,0 +1,10 @@
+1. Data Aggregation
+2.  Feature Engineering
+
+Natural Language Processing{NLP}:
+
+Reviews              Sentiment
+Product is good        1
+Product is bad         0
+
+Input-->Model-->sentiments
