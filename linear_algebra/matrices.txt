@@ -34,3 +34,5 @@ f2->  Model ->y hat predicted output
 5- > false positive 
 35-> true negatives
 
+TP+TN/FP+FN+TP+TN
+
