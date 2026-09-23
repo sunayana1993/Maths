@@ -1,0 +1,12 @@
+A matrix is regular array of numbers,symbols or expressions arranged in rows and columns.
+
+Aij=[A11 a12 a13] aij represent i as row and j as column.
+
+Example of matrices in data science:
+
+1. Data representation: 
+
+Maths score   Physics score  Biology score
+65             55             60           
+
+78             90              93
