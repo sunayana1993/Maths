@@ -10,3 +10,27 @@ Maths score   Physics score  Biology score
 65             55             60           
 
 78             90              93
+
+2. Images in computer vision
+Pixel: 0 128 255
+        255 128 0
+        128  255  128
+
+        3*3 grayscale Images
+
+3. confusion matrix- helps to calculate accuracy of Model
+
+
+f1->
+f2->  Model ->y hat predicted output
+
+              y is actual output
+50  10
+5   35  this is 2*2 matrix
+
+50-> true positive
+10->false negatives
+
+5- > false positive 
+35-> true negatives
+
