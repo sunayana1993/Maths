@@ -1,0 +1,7 @@
+A function is mathematical relationship that associates
+element of one set(call the domain) with elements of other set.
+(called the codomain).
+In simple term , function maps input to output in specific way.
+Note: Function f mapping elements from set X(domain) to set Y(codomain) is denoted by f:X->Y
+
+If x is an element in X, F(x) is an element in Y
