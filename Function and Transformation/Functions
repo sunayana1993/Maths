@@ -5,3 +5,11 @@ In simple term , function maps input to output in specific way.
 Note: Function f mapping elements from set X(domain) to set Y(codomain) is denoted by f:X->Y
 
 If x is an element in X, F(x) is an element in Y
+
+Example: f(x)=2x+3
+maps each real no x to real no y
+
+If x is an element of X,then f(x) is corresponding to element in Y
+
+2x+3 maps real no x to real no 2x+3
+
