@@ -1,0 +1,21 @@
+A linear transformation is a function between 2 vectors spaces that preserves the operation of vector addition
+and scalar multiplication.
+
+This means if T is linear transformation from vector space V to vector space W, then for any vectors it needs to satisfy  2 important properties.
+
+2 important properties:
+
+Additivity T(u+v)=T(u)+T(v)
+Multiplicity T(cu)=cT(u)
+
+u,v belongs to V
+c is a scalar value
+T:V->W} linear transfomation
+
+Reflection:
+The reflection transformation T across the y axis maps a vector
+
+Transformation can be expressed as A=[-1 0
+                                       0 1]
+
+
