@@ -28,3 +28,8 @@ Scaling: scaling is a transformation that changes the magnitude of vector , but 
 e.g
 Scaling is used in computer graphics to resize objects
 In data normalization
+
+Rotation: transformation that turns vector around the origin.
+
+V=[1,0]
+V'=[0,1]
