@@ -1,0 +1,30 @@
+Vector Transformation
+
+f:X->Y
+
+x vector is part of X
+y vector is part of Y
+
+f: |Rn->|Rm
+
+x1,x2,x3,xn belongs to R
+
+f(x,y,z)=f(x+y,2z)
+f(1,2,3)=f(3,6)
+
+(1,2,3) belongs to |R3
+(3,6) belongs to |R2
+
+This process is called vector transformation.
+
+Vector transformation refer to operation that maps vector from one space to another.
+We can do it by changing their magnitude, direction or both.
+
+These transformations are typically described using matrices and are fundamental to many field like
+Physics,engineering,computer graphics, and data science.
+
+Scaling: scaling is a transformation that changes the magnitude of vector , but keeps the direction same.
+
+e.g
+Scaling is used in computer graphics to resize objects
+In data normalization
