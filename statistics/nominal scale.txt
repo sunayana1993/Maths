@@ -1,0 +1,9 @@
+Nominal scale:this scale classifies data into distinct categories that do not have intrinsic order.
+
+Qualitative/Categorical data:
+
+-Data is categorized based on name,label,quantities
+-Categories are mutually exclusive
+-No logical order among categories[No rank]
+
+e.g- male ,female
