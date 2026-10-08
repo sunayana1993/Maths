@@ -17,3 +17,10 @@ characteristics:
 ->intervals are not equal
 
 like degree vs rank
+
+class- high, low,middle
+
+3. Interval scale->Interval scale not only categorizes but also specify exact 
+difference between intervals.
+It lacks a true zero point
+
