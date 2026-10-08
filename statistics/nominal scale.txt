@@ -7,3 +7,13 @@ Qualitative/Categorical data:
 -No logical order among categories[No rank]
 
 e.g- male ,female
+colors- red, blue,pink
+
+Ordinal scale:
+Data is categorized in a way that it can be ranked or ordered
+
+characteristics:
+->data is categorized as per rank
+->intervals are not equal
+
+like degree vs rank
