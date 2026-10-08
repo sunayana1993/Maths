@@ -8,3 +8,5 @@ Product is good        1
 Product is bad         0
 
 Input-->Model-->sentiments
+
+Text->vector->OHE

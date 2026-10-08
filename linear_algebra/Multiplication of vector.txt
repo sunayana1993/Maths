@@ -24,4 +24,6 @@ B=[3
    It calculates cosineof angle between 2 vectors,providing a similarity score that ranges from -1
    -1(dissimilar) to 1(similar)
 
+   cos theta= A.B(dot product of A n B)/|A||B|
+
    

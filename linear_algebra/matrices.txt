@@ -36,3 +36,7 @@ f2->  Model ->y hat predicted output
 
 TP+TN/FP+FN+TP+TN
 
+4. Neural Network-Matrix operation
+
+Forward propagation
+

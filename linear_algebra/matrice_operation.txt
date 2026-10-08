@@ -1,0 +1,11 @@
+Matrices operation
+
+1. To manipulate and analyze multi dimensional data efficiently.
+2. 
+--> Matrix substraction and addition
+--> Scalar matrix Multiplication
+-->Matrix multiplication.
+
+1. Matrix Addition and substraction
+
+
